@@ -1,0 +1,1 @@
+buffer_t* getblk(int deviceNumber,int blockNumber);

@@ -1,0 +1,7 @@
+6
+test.txt 0
+abc.txt 1
+hello.txt 2
+n.txt 3
+t 3
+a.txt 3
